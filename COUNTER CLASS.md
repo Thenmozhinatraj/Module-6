@@ -40,15 +40,17 @@ class Counter:
         self.current = 0
 
 counter = Counter()
+
+
 counter.increment()
 counter.increment()
 counter.increment()
 
-print("Current Counter Value:", counter.value())
+print(counter.value())
 ```
 
 ### OUTPUT
-![Screenshot 2025-05-02 134426](https://github.com/user-attachments/assets/9d8dee00-0747-4c39-a831-f1db1d894492)
+![image](https://github.com/user-attachments/assets/177e6e10-3afd-46c4-8973-33f1c2ffb14e)
 
 
 ### RESULT
