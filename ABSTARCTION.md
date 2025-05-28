@@ -70,7 +70,7 @@ k.sides()
 
 ### OUTPUT
 
-![Screenshot 2025-05-02 134201](https://github.com/user-attachments/assets/285fd35e-f443-45a1-a357-cdb7a137f35c)
+![image](https://github.com/user-attachments/assets/56bb667e-aa3f-4349-857c-4afb01ab805b)
 
 ### RESULT
 Thus, the Python program to define the abstract base class named Polygon and also define the abstract method has been implemented.
