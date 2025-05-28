@@ -55,7 +55,7 @@ print(result)
 ```
 
 ### OUTPUT
-![Screenshot 2025-05-02 135000](https://github.com/user-attachments/assets/7d1887ae-5cdb-41e8-8d5c-a19f3e4ba519)
+![image](https://github.com/user-attachments/assets/a387727a-d1f0-4599-b1bd-f68647cf80d1)
 
 ### RESULT
 Thus, the python program to perform addition of two complex numbers using the binary '+' operator overloading has been implemented and executed successfully.
